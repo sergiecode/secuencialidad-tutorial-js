@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/secuencialidad-tutorial-js/master/secuencialidad.png)
+![Tutorial de promesas en Javascript Imagen 1](https://raw.githubusercontent.com/sergiecode/secuencialidad-tutorial-js/master/secuencialidad.png)
 
 # Tutorial de Secuencialidad en JavaScript usando Promesas y Async/Await
 
